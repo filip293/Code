@@ -41,7 +41,7 @@ ul li.active a {
   color: #1b1818;
   position: absolute;
   top: 98%;
-  right: 1%;
+  right: -3%;
   transform: translate(-50%, -50%);
   letter-spacing: 8px;
   letter-spacing: 3px;
