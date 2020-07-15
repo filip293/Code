@@ -33,7 +33,7 @@ h1 {
     border-radius: 50%;
     background-color: transparent;
     text-align: center;
-    transition: 0.5s;
+    transition: 1s;
     transform: translate(0,0px);
 }
 .social-menu ul li a:hover {
