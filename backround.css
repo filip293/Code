@@ -56,14 +56,14 @@ ul li.active a {
   margin: auto;
 }
 
-.BXL img{
+.BXL img {
   float: left;
   width: 150px
 }
-.main{
+
+.main {
   max-width: 1500px
 }
-
 
 @keyframes identifier {
   0% {
