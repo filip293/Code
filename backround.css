@@ -12,9 +12,9 @@ header {
 }
 
 ul {
-position: fixed;
-right: 0;
-bottom: 100;
+  position: fixed;
+  bottom: 100;
+  left: 140vh;
   list-style-type: none;
 }
 
