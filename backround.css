@@ -14,8 +14,15 @@ header {
 ul {
   position: fixed;
   bottom: 100;
-  left: 140vh;
+  left: 143vh;
   list-style-type: none;
+}
+@media only screen and (max-width: 1000px) {
+ul
+{
+  bottom: 96vh;
+          left: 23vh;
+ }    /*or anything you want to do*/
 }
 
 ul li {
@@ -64,6 +71,11 @@ position: fixed;
 right: 170vh;
 bottom: 100;
   width: 200px
+}
+@media only screen and (max-width: 1000px) {
+.BXL img { position: static;
+    width: 170px
+ }    /*or anything you want to do*/
 }
 
 .main {
