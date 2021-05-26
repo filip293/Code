@@ -21,7 +21,7 @@ ul {
 ul
 {
   bottom: 96vh;
-          left: 23vh;
+          left: 20vh;
  }    /*or anything you want to do*/
 }
 
@@ -34,6 +34,12 @@ ul li a {
   color: white;
   padding: 5px 20px;
   border: 1px solid transparent white;
+}
+@media only screen and (max-width: 1000px) {
+ul li a
+{
+  padding: 5px 13px;
+ }    /*or anything you want to do*/
 }
 
 ul li a:hover {
