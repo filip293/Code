@@ -4,13 +4,7 @@
   font-family: Century Gothic;
 }
 html,body
-{
-    width: 100%;
-    height: 100%;
-    margin: 0px;
-    padding: 0px;
-    overflow-x: hidden;
-}
+
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(back.png);
@@ -29,7 +23,7 @@ ul {
 ul
 {
   bottom: 96vh;
-          left: 20vh;
+          left: 25vh;
  }    /*or anything you want to do*/
 }
 
