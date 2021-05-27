@@ -10,7 +10,12 @@ header {
   background-size: cover;
   background-position: center;
 }
-
+@media only screen and (max-width: 1000px) {
+header
+{
+  height: 90vh;
+ }    /*or anything you want to do*/
+}
 
 ul {
   position: fixed;
