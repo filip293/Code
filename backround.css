@@ -10,12 +10,7 @@ header {
   background-size: cover;
   background-position: center;
 }
-@media only screen and (max-width: 1000px) {
-header
-{
-  height: 90vh;
- }    /*or anything you want to do*/
-}
+
 
 ul {
   position: fixed;
@@ -23,13 +18,7 @@ ul {
   left: 143vh;
   list-style-type: none;
 }
-@media only screen and (max-width: 1000px) {
-ul
-{
-  bottom: 96vh;
-          left: 25vh;
- }    /*or anything you want to do*/
-}
+
 
 ul li {
   display: inline-block;
