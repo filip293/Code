@@ -10,11 +10,13 @@ header {
   background-size: cover;
   background-position: center;
 }
+
 @media only screen and (max-width: 1000px) {
-header
-{
-  height: 93.2vh;
- }    /*or anything you want to do*/
+  header {
+    height: 93.2vh;
+  }
+
+  /*or anything you want to do*/
 }
 
 ul {
@@ -23,12 +25,14 @@ ul {
   left: 143vh;
   list-style-type: none;
 }
+
 @media only screen and (max-width: 1000px) {
-ul
-{
-  bottom: 90vh;
-          left: 25vh;
- }    /*or anything you want to do*/
+  ul {
+    bottom: 90vh;
+    left: 25vh;
+  }
+
+  /*or anything you want to do*/
 }
 
 ul li {
@@ -41,13 +45,14 @@ ul li a {
   padding: 5px 20px;
   border: 1px solid transparent white;
 }
-@media only screen and (max-width: 1000px) {
-ul li a
-{
-  padding: 5px 13px;
- }    /*or anything you want to do*/
-}
 
+@media only screen and (max-width: 1000px) {
+  ul li a {
+    padding: 5px 20px;
+  }
+
+  /*or anything you want to do*/
+}
 
 ul li a:hover {
   background-color: #fff;
@@ -79,16 +84,19 @@ ul li.active a {
 }
 
 .BXL img {
-
-position: fixed;
-right: 170vh;
-bottom: 100;
+  position: fixed;
+  right: 170vh;
+  bottom: 100;
   width: 200px
 }
+
 @media only screen and (max-width: 1000px) {
-.BXL img { position: static;
+  .BXL img {
+    position: static;
     width: 170px
- }    /*or anything you want to do*/
+  }
+
+  /*or anything you want to do*/
 }
 
 .main {
