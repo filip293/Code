@@ -93,7 +93,7 @@ ul li.active a {
 @media only screen and (max-width: 1000px) {
   .BXL img {
     position: static;
-    width: 170px
+    width: 200px
   }
 
   /*or anything you want to do*/
@@ -102,6 +102,8 @@ ul li.active a {
 .main {
   max-width: 1500px
 }
+
+
 
 @keyframes identifier {
   0% {
