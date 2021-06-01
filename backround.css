@@ -76,14 +76,6 @@ ul li.active a {
 .title h1 {
   font-size: 10px
 }
-.title1 {
-  color: transparent;
-  position: absolute;
-  top: 98%;
-  right: -3%;
-  transform: translate(-50%, -50%);
-  letter-spacing: 2px;
-}
 
 .main {
   max width: 900px;
